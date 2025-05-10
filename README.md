@@ -47,9 +47,9 @@
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio Website](#) *(https://dev-krrish.vercel.app/)*  
+- 🌐 [Portfolio Website](https://dev-krrish.vercel.app/) 
 - 📧 khandelwalkrrish2003@gmail.com   
-- 💼 [[Resume](#) *(optional)*](https://drive.google.com/file/d/1lXtZq695w2VAMK0oIeh1Nrg1zEXtrLEU/view)
+- 💼 [Resume](https://drive.google.com/file/d/1lXtZq695w2VAMK0oIeh1Nrg1zEXtrLEU/view)
 
 Thanks for visiting! 🚀  
 *Let’s build something awesome together.*
