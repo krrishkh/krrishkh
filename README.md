@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Krrish!
 
-🎓 I'm a 3rd-year undergraduate at IIT Kanpur with a strong focus on **Full Stack Web Development**.  
+🎓 I'm a Final-year undergraduate at IIT Kanpur. 
 🚀 I love building end-to-end products and bringing ideas to life through code.
 
 ---
@@ -19,8 +19,8 @@
 - **Languages**: JavaScript, TypeScript, Python, C++, SQL  
 - **Frontend**: React, Next.js, Tailwind CSS  
 - **Backend**: Node.js, Express.js  
-- **Databases**: PostgreSQL, MongoDB  
-- **Tools**: Git, Figma, Prisma, Docker (learning)  
+- **Databases**: PostgreSQL, MongoDB, sql
+- **Tools**: Git/github, jupyter Notebook, Anaconda  
 
 ---
 
