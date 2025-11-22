@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Krrish!
 
-🎓 I'm a Final-year undergraduate at IIT Kanpur. 
-🚀 I love building end-to-end products and bringing ideas to life through code.
+I'm a Final-year undergraduate at IIT Kanpur. 
+I love bringing ideas to life through code.
 
 ---
 
